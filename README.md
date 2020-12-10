@@ -2,7 +2,7 @@
 
 Widget zeigt die Inzidenz, tägl. neue Fälle, sowie den Verlauf für 14 Tage an.
 
-![IMG_5438](https://raw.githubusercontent.com/rphl/corona-widget/master/screenshots/screenshot.png)
+![Screenshow](https://raw.githubusercontent.com/kevinkub/corona-widget/master/screenshots/screenshot.png)
 
 _Dank der positiven Resonanz, jetzt im Repo zur einfacheren Wartung/Erweiterung ( [Mein original GIST](https://gist.github.com/rphl/0491c5f9cb345bf831248732374c4ef5) ) Feedback, PRs, etc. sind Willkommen._
 
@@ -22,7 +22,7 @@ _Dank der positiven Resonanz, jetzt im Repo zur einfacheren Wartung/Erweiterung 
 
 **Hinweis**: Tägl. neue Fälle für Stadt/Bundesland + Trend sind erst nach 1-2 Tagen verfügbar (Caching nötig)
 
-![IMG_5438](https://raw.githubusercontent.com/rphl/corona-widget/master/screenshots/info.png)
+![Info](https://raw.githubusercontent.com/kevinkub/corona-widget/master/screenshots/info.png)
 
 # Installation/Update
 
@@ -42,7 +42,7 @@ _Dank der positiven Resonanz, jetzt im Repo zur einfacheren Wartung/Erweiterung 
 * Daten werden unter **Dateien (App)** > **iCloud** > **Scriptable** > **coronaWidget** > *.json zwischengespeichert.
 * Die allgemeine Konfiguration erfolgt mittels **WidgetParameter**:
 
-![IMG_5438](https://raw.githubusercontent.com/rphl/corona-widget/master/screenshots/widgetparameter.jpg)
+![Widget Parameter](https://raw.githubusercontent.com/kevinkub/corona-widget/master/screenshots/widgetparameter.jpg)
 
 
 ## Statische Standort Koordinaten
